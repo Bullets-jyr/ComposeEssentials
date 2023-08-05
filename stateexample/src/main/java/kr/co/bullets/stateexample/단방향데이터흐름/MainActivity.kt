@@ -1,4 +1,4 @@
-package kr.co.bullets.stateexample
+package kr.co.bullets.stateexample.단방향데이터흐름
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
