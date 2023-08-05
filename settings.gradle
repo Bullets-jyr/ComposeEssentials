@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ComposeEssentials"
 include ':app'
+include ':stateexample'
