@@ -1,4 +1,4 @@
-package kr.co.bullets.stateexample
+package kr.co.bullets.stateexample.상태호이스팅
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
