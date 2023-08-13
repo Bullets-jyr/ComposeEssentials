@@ -1,4 +1,4 @@
-package kr.co.bullets.stateexample
+package kr.co.bullets.stateexample.환경설정변경을통한상태저장하기
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
